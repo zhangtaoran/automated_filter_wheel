@@ -39,10 +39,11 @@ After connecting the TinyG board, type in command below to give permission to th
     sudo chmod a+rw /dev/ttyUSB0
 Then you have two ways to run the code. 
 1. Run the jupyter notebook(tinyg.ipynb) directly, or
-2. Import tinyg.py as a library. You would write code like this:
+2. Import tinyg.py as a library. 
 
+For the second method, you would write code like this:
+    
     import tinyg
-
     tg = tinyg.tinyg()
     tg.open("/dev/ttyUSB0")
     tg.cycle_44_filters()
