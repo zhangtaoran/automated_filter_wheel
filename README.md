@@ -48,4 +48,4 @@ Then you have two ways to run the code.
     tg.cycle_44_filters()
 
 ## Hyperspectral Response of an Apple Slice
-Using the pictures in the sample_pictures folder and code in plot.py, you can get the comparsion between the hyperspectral response of a pixel on an apple slice and a pixel on a white paper. Here is the result: ![Example of hyperspectral response](media/plot\ result.png)
+Using the pictures in the sample_pictures folder and code in plot.py, you can get the comparsion between the hyperspectral response of a pixel on an apple slice and a pixel on a white paper. Here is the result: ![Example of hyperspectral response](media/plot_result.png)
